@@ -6,25 +6,35 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eiei114" alt="eiei114" /></a> </p>
 
 【できること】
-・WordPressを利用したホームページ作成
-・Androidアプリ制作
-・UnityやUE4を利用したゲーム制作
-・主にFLstudioを利用した効果音作成
+<ul>
+  <li>WordPressを利用したホームページ作成</li>
+  <li>Androidアプリ制作</li>
+  <li>UnityやUE4を利用したゲーム制作</li>
+  <li>主にFLstudioを利用した効果音作成</li>
+</ul>
 
 運営しているサイト
-・https://www.instantaudio.jp/
-・https://enjoy-tales-studio.com/
+<ul>
+<li>https://www.instantaudio.jp/</li>
+<li>https://enjoy-tales-studio.com/</li>
+</ul>
 
 公開しているアプリ
-・https://play.google.com/store/apps/developer?id=EISUKE
+<ul>
+  <li>https://play.google.com/store/apps/developer?id=EISUKE</li>
+</ul>
 
 チームで制作したゲーム
-・https://game.nicovideo.jp/atsumaru/games/gm21317?link_in=users
-・https://game.nicovideo.jp/atsumaru/games/gm21508?link_in=gamepage_posted
+<ul>
+<li>https://game.nicovideo.jp/atsumaru/games/gm21317?link_in=users</li>
+<li>https://game.nicovideo.jp/atsumaru/games/gm21508?link_in=gamepage_posted</li>
+</ul>
 
 効果音を担当した作品
-・https://game.creators-guild.com/gck2021/1926/
-・https://www.instantaudio.jp/
+<ul>
+<li>https://game.creators-guild.com/gck2021/1926/</li>
+<li>https://www.instantaudio.jp/</li>
+</ul>
 
 所属チーム[Rise](https://twitter.com/Risegameteam?s=20)
 
