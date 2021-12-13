@@ -5,13 +5,28 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eiei114" alt="eiei114" /></a> </p>
 
-- 🌱 I’m currently learning **Unreal Engine**
+【できること】
+・WordPressを利用したホームページ作成
+・Androidアプリ制作
+・UnityやUE4を利用したゲーム制作
+・主にFLstudioを利用した効果音作成
 
-- 👯 I’m looking to collaborate on [Rise](https://twitter.com/Risegameteam?s=20)
+運営しているサイト
+・https://www.instantaudio.jp/
+・https://enjoy-tales-studio.com/
 
-- 📝 I regularly write articles on [https://enjoy-tales-studio.com](https://enjoy-tales-studio.com)
+公開しているアプリ
+・https://play.google.com/store/apps/developer?id=EISUKE
 
-- 🎹about my music [https://soundcloud.com/hojoh114](https://soundcloud.com/hojoh114)
+チームで制作したゲーム
+・https://game.nicovideo.jp/atsumaru/games/gm21317?link_in=users
+・https://game.nicovideo.jp/atsumaru/games/gm21508?link_in=gamepage_posted
+
+効果音を担当した作品
+・https://game.creators-guild.com/gck2021/1926/
+・https://www.instantaudio.jp/
+
+所属チーム[Rise](https://twitter.com/Risegameteam?s=20)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
