@@ -31,7 +31,7 @@
 <li>https://game.nicovideo.jp/atsumaru/games/gm21508?link_in=gamepage_posted</li>
 </ul>
 
-効果音を担当した作品
+サウンドデザイナーを担当した作品
 <ul>
 <li>https://game.creators-guild.com/gck2021/1926/</li>
 <li>https://www.instantaudio.jp/</li>
