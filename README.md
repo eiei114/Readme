@@ -37,6 +37,11 @@
 <li>https://twitter.com/i/events/1466814807907049478</li>
 </ul>
 
+受賞歴
+<ui>
+  <li>ClusterGAMEJAMルーキー部門 https://cluster.mu/w/6679ad8e-4a53-4696-8c92-aa874172e5be</li>
+</ull>
+
 所属チーム[Rise](https://twitter.com/Risegameteam?s=20)
 
 <h3 align="left">Connect with me:</h3>
