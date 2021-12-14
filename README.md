@@ -34,6 +34,7 @@
 <ul>
 <li>https://game.creators-guild.com/gck2021/1926/</li>
 <li>https://www.instantaudio.jp/</li>
+<li>https://twitter.com/i/events/1466814807907049478</li>
 </ul>
 
 所属チーム[Rise](https://twitter.com/Risegameteam?s=20)
