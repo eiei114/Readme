@@ -43,9 +43,10 @@ Riseで制作したゲーム
 </ul>
 
 受賞歴
-<ui>
+<ul>
   <li>ClusterGAMEJAMルーキー部門 https://cluster.mu/w/6679ad8e-4a53-4696-8c92-aa874172e5be</li>
-</ull>
+  <li>0000_studio賞 https://game.creators-guild.com/gck2021/1926/</li>
+</ul>
 
 
 
