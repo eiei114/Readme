@@ -24,10 +24,15 @@
   <li>https://play.google.com/store/apps/developer?id=EISUKE</li>
 </ul>
 
-チームで制作したゲーム
+Riseで制作したゲーム
 <ul>
-<li>https://game.nicovideo.jp/atsumaru/games/gm21317?link_in=users</li>
-<li>https://game.nicovideo.jp/atsumaru/games/gm21508?link_in=gamepage_posted</li>
+<li>"事故天" https://game.nicovideo.jp/atsumaru/games/gm21317?link_in=users</li>
+<li>"スライムキャッチ" https://game.nicovideo.jp/atsumaru/games/gm21508?link_in=gamepage_posted</li>
+</ul>
+
+プラなろで制作したゲーム
+<ul>
+<li>"「正」をさがせ！！" https://unityroom.com/games/seiwosgase_0</li>
 </ul>
 
 サウンドデザイナーを担当した作品
