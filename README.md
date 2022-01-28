@@ -33,6 +33,7 @@ Riseで制作したゲーム
 プラなろで制作したゲーム
 <ul>
 <li>"「正」をさがせ！！" https://unityroom.com/games/seiwosgase_0</li>
+<li>正義マン - ちぇん https://unityroom.com/games/justice-warrior</li>
 </ul>
 
 サウンドデザイナーを担当した作品
@@ -48,6 +49,10 @@ Riseで制作したゲーム
   <li>0000_studio賞 https://game.creators-guild.com/gck2021/1926/</li>
 </ul>
 
+リリース予定
+<ul>
+  <li>DreamIsland https://github.com/ayutaz/DreamIsland</li>
+</ul>
 
 
 所属チーム[Rise](https://twitter.com/Risegameteam?s=20)
