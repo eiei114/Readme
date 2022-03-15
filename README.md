@@ -11,7 +11,7 @@
   <li>UnityやUE4を利用したゲーム制作</li>
   <li>Google広告実装</li>
   <li>主にFLstudioを利用した効果音作成</li>
-  <li>サウンドエンジン"CriWare"を利用したサウンドの導入</li>
+  <li>サウンドエンジン"CriWare ADX"を利用したサウンドの導入</li>
 </ul>
 
 運営しているサイト
