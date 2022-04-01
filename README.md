@@ -52,7 +52,7 @@ Riseで制作したゲーム
 
 リリース予定
 <ul>
-  <li>DreamIsland https://github.com/ayutaz/DreamIsland</li>
+  <li>DreamIsland https://twitter.com/DreamIslamd1010</li>
 </ul>
 
 
