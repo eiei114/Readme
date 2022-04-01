@@ -34,10 +34,10 @@ Riseで制作したゲーム
 プラなろで制作したゲーム
 <ul>
 <li>"「正」をさがせ！！"</li>
-<li>[UnityRoom](https://unityroom.com/games/seiwosgase_0) (WebGL/JP)</li>
-<li>[Google PLay](https://play.google.com/store/apps/details?id=com.teamb.unityweek&hl=ja&gl=US) (Android/JP)</li>
-<li>[itch.io](https://abyss-07.itch.io/look-for-sei) (Windows/US)</li>
-  
+  <li>[UnityRoom](https://unityroom.com/games/seiwosgase_0) (WebGL/JP)</li>
+  <li>[Google PLay](https://play.google.com/store/apps/details?id=com.teamb.unityweek&hl=ja&gl=US) (Android/JP)</li>     <li>[itch.io](https://abyss-07.itch.io/look-for-sei) (Windows/US)</li>
+</ul>
+<ul>
 <li>正義マン - ちぇん https://unityroom.com/games/justice-warrior</li>
 </ul>
 
