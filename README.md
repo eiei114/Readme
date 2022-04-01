@@ -50,7 +50,7 @@ Riseで制作したゲーム
   <li>0000_studio賞 https://game.creators-guild.com/gck2021/1926/</li>
 </ul>
 
-リリース予定
+制作中
 <ul>
   <li>DreamIsland https://twitter.com/DreamIslamd1010</li>
 </ul>
