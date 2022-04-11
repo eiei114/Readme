@@ -54,13 +54,6 @@
   <li>0000_studio賞 https://game.creators-guild.com/gck2021/1926/</li>
 </ul>
 
-##制作中
-<ul>
-  <li>DreamIsland https://twitter.com/DreamIslamd1010</li>
-</ul>
-
-
-所属チーム[Rise](https://twitter.com/Risegameteam?s=20)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
