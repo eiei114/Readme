@@ -1,10 +1,6 @@
 <h1 align="center">Portfolio</h1>
 <h3 align="center">I want to do a lot of interesting things.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eiei114&label=Profile%20views&color=0e75b6&style=flat" alt="eiei114" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eiei114" alt="eiei114" /></a> </p>
-
 ##【できること】
 <ul>
   <li>WordPressを利用したホームページ作成</li>
