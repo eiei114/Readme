@@ -1,7 +1,7 @@
 <h1 align="center">Portfolio</h1>
 <h3 align="center">I want to do a lot of interesting things.</h3>
 
-##【できること】
+## 【できること】
 <ul>
   <li>WordPressを利用したホームページ作成</li>
   <li>UnityやUE4を利用したゲーム制作</li>
@@ -10,24 +10,24 @@
   <li>サウンドエンジン"CriWare ADX"を利用したサウンドの導入</li>
 </ul>
 
-##運営しているサイト
+##  運営しているサイト
 <ul>
 <li>https://www.instantaudio.jp/</li>
 <li>https://enjoy-tales-studio.com/</li>
 </ul>
 
-##公開しているアプリ
+##  公開しているアプリ
 <ul>
   <li>https://play.google.com/store/apps/developer?id=EISUKE</li>
 </ul>
 
-##Riseで制作したゲーム
+##  Riseで制作したゲーム
 <ul>
 <li>"事故天" https://game.nicovideo.jp/atsumaru/games/gm21317?link_in=users</li>
 <li>"スライムキャッチ" https://game.nicovideo.jp/atsumaru/games/gm21508?link_in=gamepage_posted</li>
 </ul>
 
-##プラなろで制作したゲーム
+##  プラなろで制作したゲーム
 <ul>
 <li>"「正」をさがせ！！"</li>
   <li>[UnityRoom](https://unityroom.com/games/seiwosgase_0) (WebGL/JP)</li>
@@ -37,14 +37,14 @@
 <li>正義マン - ちぇん https://unityroom.com/games/justice-warrior</li>
 </ul>
 
-##サウンドデザイナーを担当した作品
+##  サウンドデザイナーを担当した作品
 <ul>
 <li>https://game.creators-guild.com/gck2021/1926/</li>
 <li>https://www.instantaudio.jp/</li>
 <li>https://twitter.com/i/events/1466814807907049478</li>
 </ul>
 
-##受賞歴
+##  受賞歴
 <ul>
   <li>ClusterGAMEJAMルーキー部門 https://cluster.mu/w/6679ad8e-4a53-4696-8c92-aa874172e5be</li>
   <li>0000_studio賞 https://game.creators-guild.com/gck2021/1926/</li>
