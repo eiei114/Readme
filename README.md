@@ -1,54 +1,44 @@
 <h1 align="center">Portfolio</h1>
-<h3 align="center">I want to do a lot of interesting things.</h3>
 
-## 【できること】
-<ul>
-  <li>WordPressを利用したホームページ作成</li>
-  <li>UnityやUE4を利用したゲーム制作</li>
-  <li>Google広告実装</li>
-  <li>主にFLstudioを利用した効果音作成</li>
-  <li>サウンドエンジン"CriWare ADX"を利用したサウンドの導入</li>
-</ul>
+# GameProgrammer👨‍💻 & SoundDesigner🎧
 
-##  運営しているサイト
-<ul>
-<li>https://www.instantaudio.jp/</li>
-<li>https://enjoy-tales-studio.com/</li>
-</ul>
+## 自己紹介
+主に個人やチーム、コミュニティに属してゲームプログラマーやサウンドデザイナーとして活動しています。
 
-##  公開しているアプリ
-<ul>
-  <li>https://play.google.com/store/apps/developer?id=EISUKE</li>
-</ul>
+## できること
 
-##  Riseで制作したゲーム
-<ul>
-<li>"事故天" https://game.nicovideo.jp/atsumaru/games/gm21317?link_in=users</li>
-<li>"スライムキャッチ" https://game.nicovideo.jp/atsumaru/games/gm21508?link_in=gamepage_posted</li>
-</ul>
+ゲームプログラマーとしてUnityやUE4,Godotを利用してゲームを制作した経験があります。
+Unityではメモリ管理を意識して、`UniTask`,`UniRx`などを利用した非同期的実装ができます。また、`CRIWARE`を利用したサウンド実装した経験もあります。
 
-##  プラなろで制作したゲーム
-<ul>
-<li>"「正」をさがせ！！"</li>
-  <li>[UnityRoom](https://unityroom.com/games/seiwosgase_0) (WebGL/JP)</li>
-  <li>[Google PLay](https://play.google.com/store/apps/details?id=com.teamb.unityweek&hl=ja&gl=US) (Android/JP)</li>     <li>[itch.io](https://abyss-07.itch.io/look-for-sei) (Windows/US)</li>
-</ul>
-<ul>
-<li>正義マン - ちぇん https://unityroom.com/games/justice-warrior</li>
-</ul>
+サウンドデザイナーとしてFLStudioを利用してUIや戦闘、環境音などを制作してきました。個人的に制作したものはフリー効果音サイトを制作し公開してあります。
 
-##  サウンドデザイナーを担当した作品
-<ul>
-<li>https://game.creators-guild.com/gck2021/1926/</li>
-<li>https://www.instantaudio.jp/</li>
-<li>https://twitter.com/i/events/1466814807907049478</li>
-</ul>
+ゲームサウンドに興味があり、`CRIWARE`などのサウンドエンジンを利用してVRやARコンテンツにてよりシネマティックかつより没入感のある実装してみたい。
+
+##  制作物
+### ゲーム
+- [Marshmallowアドベンチャー(Android/Unity/2D/広告実装)](https://play.google.com/store/apps/details?id=com.DefaultCompany.headingerAdventure)
+- [事故天(WebGL/Unity/3D)](https://game.nicovideo.jp/atsumaru/games/gm21317?link_in=users)
+- [スライムキャッチ(WebGL/Unity/2D)](https://game.nicovideo.jp/atsumaru/games/gm21508?link_in=gamepage_posted)
+- 「正」をさがせ！！
+  - [(WebGL/Unity/2D)](https://unityroom.com/games/seiwosgase_0)
+  - [(Android/Unity/2D)](https://play.google.com/store/apps/details?id=com.teamb.unityweek&hl=ja&gl=US)
+  - [(Windows/Unity/2D)](https://abyss-07.itch.io/look-for-sei)
+- [正義マン(WebGL/Unity/2D)](https://unityroom.com/games/justice-warrior)
+- [JumperBox/Windows/Godot/2D](https://keisuke114.itch.io/jumperbox)
+- [クリアして友情ぽっぴんグー(Cluster/Unity/3D)](https://cluster.mu/w/6679ad8e-4a53-4696-8c92-aa874172e5be)
+
+### サウンドデザイン
+- [X・Relieve(Windows/UE4)](https://game.creators-guild.com/gck2021/1926/)
+- [InstantAudio(WebSite/WordPress/フリー効果音サイト)](https://www.instantaudio.jp)
+- [フォーリーサウンド/FLStudio](https://twitter.com/i/events/1466814807907049478)
+
+### その他
+- [ブログ(WebSite/WordPress)](https://enjoy-tales-studio.com/)
 
 ##  受賞歴
-<ul>
-  <li>ClusterGAMEJAMルーキー部門 https://cluster.mu/w/6679ad8e-4a53-4696-8c92-aa874172e5be</li>
-  <li>0000_studio賞 https://game.creators-guild.com/gck2021/1926/</li>
-</ul>
+- [ClusterGAMEJAMルーキー部門](https://cluster.mu/w/6679ad8e-4a53-4696-8c92-aa874172e5be)
+- [0000_studio賞](https://game.creators-guild.com/gck2021/1926/)
+
 
 
 <h3 align="left">Connect with me:</h3>
