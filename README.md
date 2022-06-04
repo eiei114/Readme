@@ -34,6 +34,7 @@ Unityではメモリ管理を意識して、`UniTask`,`UniRx`などを利用し�
 
 ### その他
 - [ブログ(WebSite/WordPress)](https://enjoy-tales-studio.com/)
+- [反射速度測定アプリ(Android/Java/広告実装)](https://play.google.com/store/apps/details?id=com.enjoytailingstudio.com.unity.template.mobile2D)
 
 ##  受賞歴
 - [ClusterGAMEJAMルーキー部門](https://cluster.mu/w/6679ad8e-4a53-4696-8c92-aa874172e5be)
