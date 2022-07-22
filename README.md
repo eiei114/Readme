@@ -2,18 +2,6 @@
 
 # GameProgrammer👨‍💻 & SoundDesigner🎧
 
-## 自己紹介
-主に個人やチーム、コミュニティに属してゲームプログラマーやサウンドデザイナーとして活動しています。
-
-## できること
-
-ゲームプログラマーとしてUnityやUE4,Godotを利用してゲームを制作した経験があります。
-Unityではメモリ管理を意識して、`UniTask`,`UniRx`などを利用した非同期的実装ができます。また、`CRIWARE`を利用したサウンド実装した経験もあります。
-
-サウンドデザイナーとしてFLStudioを利用してUIや戦闘、環境音などを制作してきました。個人的に制作したものはフリー効果音サイトを制作し公開してあります。
-
-ゲームサウンドに興味があり、`CRIWARE`などのサウンドエンジンを利用してVRやARコンテンツにてよりシネマティックかつより没入感のある実装してみたい。
-
 ##  制作物
 ### ゲーム
 - [Marshmallowアドベンチャー(Android/Unity/2D/広告実装)](https://play.google.com/store/apps/details?id=com.DefaultCompany.headingerAdventure)
