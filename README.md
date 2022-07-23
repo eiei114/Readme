@@ -24,4 +24,4 @@
 
 ## Contact
 
-[![email]](mailto:ekawano114@gmail.com) 
+[email](mailto:ekawano114@gmail.com) 
