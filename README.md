@@ -16,6 +16,8 @@
  - OSS contributor 
    - [bevy](https://github.com/bevyengine/bevy)
    - [Lapce](https://github.com/lapce/lapce)
+ - Translation
+   - [NoiseCapture](https://github.com/Universite-Gustave-Eiffel/NoiseCapture)
 ## Status
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eiei114&layout=compact&show_icons=true&theme=onedark" />
