@@ -16,6 +16,7 @@
  - OSS contributor 
    - [bevy](https://github.com/bevyengine/bevy)
    - [Lapce](https://github.com/lapce/lapce)
+   - [Mirror](https://github.com/vis2k/Mirror)
  - Translation
    - [NoiseCapture](https://github.com/Universite-Gustave-Eiffel/NoiseCapture)
 ## Status
