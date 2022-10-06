@@ -1,4 +1,4 @@
-# GameProgrammer👨‍💻 & SoundDesigner🎧
+# GameProgrammer👨‍💻 
 <p align="left"> 
   <a href="https://github.com/eiei114/eiei114/">
     <img src="https://komarev.com/ghpvc/?username=eiei114" alt="eiei114" />
@@ -19,7 +19,7 @@
    - [Mirror](https://github.com/vis2k/Mirror)
  - Translation
    - [NoiseCapture](https://github.com/Universite-Gustave-Eiffel/NoiseCapture)
-## Status
+## Status📊
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eiei114&layout=compact&show_icons=true&theme=onedark" />
     <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=eiei114&theme=onedark&show_icons=ture" />
