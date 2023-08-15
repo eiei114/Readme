@@ -13,7 +13,8 @@
 ## About me
 
  - [Portfolio](https://spot-camelotia-ca8.notion.site/Portfolio-66f9a6d667d84785afe1cecfea0fd2ab)
- - OSS contributor 
+ - OSS contributor
+   - [roc](https://github.com/eiei114/roc)
    - [bevy](https://github.com/bevyengine/bevy)
    - [Lapce](https://github.com/lapce/lapce)
    - [Mirror](https://github.com/vis2k/Mirror)
