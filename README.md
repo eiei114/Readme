@@ -1,4 +1,3 @@
-# Programmer👨‍💻 
 <p align="left"> 
   <a href="https://github.com/eiei114/eiei114/">
     <img src="https://komarev.com/ghpvc/?username=eiei114" alt="eiei114" />
@@ -8,6 +7,12 @@
   </a>
   <a href="https://github.com/eiei114">
     <img height="20" src="https://img.shields.io/github/followers/eiei114?label=follow&logo=github&style=flat" />
+  </a>
+    <a href="https://zenn.dev/keisuke114/articles">
+    <img src="https://zenn.badge.nikaera.com/s/keisuke114/articles?style=plastic" alt="keisuke114 articles" />
+  </a>
+  <a href="https://zenn.dev/keisuke114/scraps">
+    <img src="https://zenn.badge.nikaera.com/s/keisuke114/scraps?style=plastic" alt="keisuke114 scraps" />
   </a>
 
 ## About me
