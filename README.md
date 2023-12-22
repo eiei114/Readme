@@ -17,7 +17,6 @@
 
 ## About me
 
- - [Portfolio](https://spot-camelotia-ca8.notion.site/Portfolio-66f9a6d667d84785afe1cecfea0fd2ab)
  - OSS contributor
    - [roc](https://github.com/eiei114/roc)
    - [bevy](https://github.com/bevyengine/bevy)
