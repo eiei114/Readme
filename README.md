@@ -14,6 +14,7 @@
   <a href="https://zenn.dev/keisuke114/scraps">
     <img src="https://zenn.badge.nikaera.com/s/keisuke114/scraps?style=plastic" alt="keisuke114 scraps" />
   </a>
+  <a href="https://qiita.com/eisuke114"><img src="https://badgen.org/img/qiita/eisuke114/articles?style=plastic" alt="Articles" /></a>
 
 ## About me
 
